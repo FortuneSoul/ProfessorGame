@@ -1,0 +1,12 @@
+.vscode
+Library
+Logs
+obj
+Packages
+ProjectSettings
+*.csproj
+*.sln
+*.meta
+.vs
+.git
+\Assets\!Scripts
